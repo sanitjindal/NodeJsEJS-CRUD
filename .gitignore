@@ -1,0 +1,110 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Debugging
+.DS_Store
+
+# OS generated files
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.*.local
+
+# Build output
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Dependency directories for front-end frameworks
+bower_components/
+.ember-cli
+.tmp
+
+# Bundler output
+.bundle
+public/assets
+public/packs
+public/packs-test
+
+# Coverage directory
+coverage/
+.nyc_output/
+
+# Test results
+junit.xml
+test.xml
+*.tap
+*.test-results.json
+*.lcov
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.cache
+*.bak
+*.swp
+*.lock
+*.gz
+*.log
+
+# Database and local configurations
+*.sqlite3
+*.sqlite
+*.db
+*.sql
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Images and generated files
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# JetBrains IDEs
+.idea/
+
+# Mac OS files
+*.DS_Store
+
+# Ignore yarn files
+.yarn/*
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+# Misc
+.vagrant/
+*.log
+*.bak
